@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "skills": [
+    {
+      "name": "fs2",
+      "path": "skills/fs2",
+      "description": "Guides Scala FS2 functional stream processing — lazy, resource-safe, concurrent streaming built on Cats Effect. Use when building pipelines that read, transform, merge, or sink data with backpressure.",
+      "tags": ["scala", "fs2", "streaming", "cats-effect", "functional-programming"]
+    }
+  ]
+}
