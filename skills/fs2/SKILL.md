@@ -35,4 +35,4 @@ description: Guides Scala FS2 functional stream processing — lazy, resource-sa
 
 - See `references/fs2.md` for detailed API surface, concurrency primitives, I/O, error handling, and examples.
 - Related skills: `cats-effect-io` (effect handling, fibers), `cats-effect-resource` (resource lifecycle).
-  Install with: `npx skills add https://github.com/rlecomte/skills --skill cats-effect-io`
+  Install with: `npx skills add https://github.com/rlecomte/skills --skill fs2`
