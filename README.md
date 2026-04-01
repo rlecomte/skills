@@ -16,6 +16,7 @@ npx skills add https://github.com/rlecomte/skills --skill <skill-name>
 | Skill | Description |
 |---|---|
 | [fs2](skills/fs2) | Guides Scala FS2 functional stream processing — lazy, resource-safe, concurrent streaming built on Cats Effect. |
+| [circe](skills/circe) | Scala JSON processing with Circe — parsing, encoding/decoding, cursor traversal, codec derivation, ADT handling, optics. |
 
 ## Testing
 
